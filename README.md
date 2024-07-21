@@ -27,9 +27,11 @@ A simple Python script that scrapes email addresses from a given website URL. Th
 2. **Install the required Python packages:**
    ```ssh
    pip install beautifulsoup4 requests lxml
-
+   ```
 ## Usage
 
 1.**Run the Script:**
    ```ssh
+   python escrap.py
+   ```
    
